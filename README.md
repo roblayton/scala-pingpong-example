@@ -1,1 +1,1 @@
-# scala-actorref-example
+# scala-pingpong-example
